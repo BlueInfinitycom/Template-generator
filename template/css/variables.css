@@ -1,0 +1,8 @@
+@font-face {
+  font-family: title;
+  src: url("../fonts/SamsungSharpSansBold.ttf");
+}
+@font-face {
+  font-family: description;
+  src: url("../fonts/SamsungOne_400.ttf");
+}
